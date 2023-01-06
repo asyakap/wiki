@@ -25,4 +25,11 @@ _This webpage replicates the main wiki page._
 
 _If you run into a problem or in case you have any ideas or concerns please contact me._
 
-Copyright (c) _01/05/2023_ _Wikipedia_ 
+Copyright (c) _01/05/2023_ _Wikipedia
+
+
+
+      
+      
+
+_ 
