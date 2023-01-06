@@ -1,19 +1,27 @@
-.sidebar {
-  float: left;
-  background-color: rgb(228, 226, 226);
-  width: 210px;
-  padding-left: 10px;
+.textstyle {
   font-size: 0.75em;
   line-height: 1.125em;
   word-wrap: break-word;
   font-family: sans-serif;
 }
 
+.sidebar {
+  float: left;
+  background-color: rgb(228, 226, 226);
+  width: 210px;
+  padding-left: 10px;
+  
+}
+
 .topline {
-  float:right;
-  font-family: sans-serif;
+  text-align:right;
   padding-right: 10px;
   padding-top: 10px;
-  font-size: 0.75em;
+  line-height: 1.125em;
+}
+
+.secondline {
+  padding-right: 10px;
+  padding-top: 10px;
   line-height: 1.125em;
 }
